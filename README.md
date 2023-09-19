@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rayhuangme
-- 👀 I’m interested in web development and building software product.
+- 👋 Hi, I’m @rayhuangme.
+- 👀 I’m interested in building software product (especially web applications).
 - 💻 Currently, I am working as a frontend engineer.
 
 <!---
