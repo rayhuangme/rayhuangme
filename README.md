@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayhuangme, currently working as a frontend engineer.
-- 👀 I’m interested in building software product (especially web applications).
+- 👀 I’m interested in building software products (especially web applications).
 
 <!---
 rayhuangme/rayhuangme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
